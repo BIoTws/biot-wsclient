@@ -1,0 +1,8 @@
+{
+  "name": "biot-wsclient",
+  "version": "1.0.0",
+  "main": "core.js",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
+}
